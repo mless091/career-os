@@ -2,6 +2,8 @@
 
 **CareerOS** is a full-stack application designed to modernize the job search process. It combines a kanban-style application tracker with a Generative AI engine that autonomously rewrites user resumes to match specific job descriptions.
 
+careeros-ai.vercel.app/
+
 ![Dashboard Preview](./public/dashboard-preview.png) 
 
 ##  Key Features
