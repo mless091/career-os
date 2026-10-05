@@ -29,7 +29,7 @@ One of the core technical challenges was maintaining the formatting of a user's 
 2.  **Constraint Generation:** A prompt engineering layer instructs Gemini to keep factual history (dates, companies) immutable while strictly optimizing the *descriptions* for keyword matching.
 3.  **Regeneration:** The new content is fed into a dynamic React-PDF template that re-renders a downloadable, polished PDF in real-time.
 
-## 📦 Getting Started
+##  Getting Started
 
 1.  **Clone the repo:**
     ```bash
@@ -46,7 +46,7 @@ One of the core technical challenges was maintaining the formatting of a user's 
     npm run dev
     ```
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * **Cover Letter Generation:** Using the same context engine to draft personalized cover letters.
 * **Browser Extension:** To "Clip" jobs directly from LinkedIn into the dashboard.
