@@ -2,9 +2,9 @@
 
 **CareerOS** is a full-stack application designed to modernize the job search process. It combines a kanban-style application tracker with a Generative AI engine that autonomously rewrites user resumes to match specific job descriptions.
 
-![Dashboard Preview](./public/dashboard-preview.png) *(Note: Add a screenshot here later)*
+![Dashboard Preview](./public/dashboard-preview.png) 
 
-## 🚀 Key Features
+##  Key Features
 
 * **AI Resume Architect:** Uses Google Gemini to analyze job descriptions and rewrite resume bullet points for ATS optimization (PDF-to-PDF generation).
 * **Visual Pipeline:** A "Command Center" dashboard with velocity charts and status metrics.
@@ -12,7 +12,7 @@
 * **Smart Filtering:** Instant search and filtering across application statuses (Applied, Interview, Offer).
 * **Secure Storage:** Cloud-based resume storage with secure user authentication via Clerk.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Framer Motion.
 * **UI Library:** Shadcn UI, Lucide Icons, Recharts (Data Viz).
@@ -21,7 +21,7 @@
 * **AI:** Google Gemini 1.5 Flash (Generative Content & Text Analysis).
 * **PDF Processing:** `pdf2json` for parsing, `@react-pdf/renderer` for generation.
 
-## 🏗️ Architecture Highlight: The "Resume Architect"
+##  Architecture Highlight: The "Resume Architect"
 
 One of the core technical challenges was maintaining the formatting of a user's resume while rewriting the content.
 
